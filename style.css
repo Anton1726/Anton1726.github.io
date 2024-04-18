@@ -56,6 +56,7 @@ footer {
 .mainphoto {
     position: relative;
 }
+/* CONTACT SECTION */
 
 .mainphoto img {
     float: right; 
@@ -81,6 +82,14 @@ footer {
 .square { 
     border-radius: 40%;
 }
+.contact{
+    float: right;   
+    width: 49%;
+    position: relative;
+    right: 28%;
+    top: 18px;
+}
+
 
 .typing { display: inline-block;}
 .text{
